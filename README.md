@@ -1,1 +1,1 @@
-# sqq_client
+# sqs_client
